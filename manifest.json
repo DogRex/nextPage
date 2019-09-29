@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "翻页",
+    "version": "1.0",
+    "description": "翻页",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "js/next-page.js"
+            ]
+        }
+    ],
+    "browser_action": {
+        "default_popup": "popup.html"
+    }
+}
