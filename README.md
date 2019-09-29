@@ -7,7 +7,7 @@
 - 步骤三：chrome右上角激活“开发者模式”
 - 步骤四：选择左上角“加载已解压缩的扩展程序”，选择步骤一解压的代码目录
 ## 2）方式二：安装包安装（简单，但有可能会失败）
-- 步骤一：下载最新安装包（.crx文件)
+- 步骤一：下载最新安装包 [nextPage.crx](https://github.com/DogRex/nextPage/releases/download/v1.0/nextPage.crx)
 - 步骤二：将安装包拖入chrome浏览器
 # 2、使用方式
 - 翻往下一页：组合快捷键 ctrl + ]
